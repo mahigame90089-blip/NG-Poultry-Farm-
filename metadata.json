@@ -1,0 +1,5 @@
+{
+  "name": "NG Poultry Farm",
+  "description": "A comprehensive poultry farm management application for tracking flocks, egg production, feed, and finances.",
+  "requestFramePermissions": ["geolocation"]
+}
